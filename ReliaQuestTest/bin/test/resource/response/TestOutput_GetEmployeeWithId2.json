@@ -1,0 +1,12 @@
+{
+	"status": "success",
+	"data": {
+		"id": 2,
+		"employee_name": "Garrett Winters",
+		"employee_salary": 170750,
+		"employee_age": 63,
+		"profile_image": ""
+	},
+	"message": "Successfully! Record has been fetched.",
+	"TestMessage" : "From Test file"
+}

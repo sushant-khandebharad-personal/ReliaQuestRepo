@@ -1,0 +1,6 @@
+{
+	"status": "success",
+	"data": "2",
+	"message": "Successfully! Record has been deleted",
+	"TestMessage" : "From Test file"
+}
